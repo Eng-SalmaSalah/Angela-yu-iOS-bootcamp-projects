@@ -13,6 +13,7 @@
 		A41366AD24BD1C7C007F0242 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A41366AB24BD1C7C007F0242 /* Main.storyboard */; };
 		A41366AF24BD1C80007F0242 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A41366AE24BD1C80007F0242 /* Assets.xcassets */; };
 		A41366B224BD1C80007F0242 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A41366B024BD1C80007F0242 /* LaunchScreen.storyboard */; };
+		A41366BA24BD2A5E007F0242 /* MyCommentsToStudy.rtf in Resources */ = {isa = PBXBuildFile; fileRef = A41366B924BD2A5E007F0242 /* MyCommentsToStudy.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A41366AE24BD1C80007F0242 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A41366B124BD1C80007F0242 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A41366B324BD1C80007F0242 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A41366B924BD2A5E007F0242 /* MyCommentsToStudy.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = MyCommentsToStudy.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A41366AE24BD1C80007F0242 /* Assets.xcassets */,
 				A41366B024BD1C80007F0242 /* LaunchScreen.storyboard */,
 				A41366B324BD1C80007F0242 /* Info.plist */,
+				A41366B924BD2A5E007F0242 /* MyCommentsToStudy.rtf */,
 			);
 			path = RollTheDice;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 				A41366B224BD1C80007F0242 /* LaunchScreen.storyboard in Resources */,
 				A41366AF24BD1C80007F0242 /* Assets.xcassets in Resources */,
 				A41366AD24BD1C7C007F0242 /* Main.storyboard in Resources */,
+				A41366BA24BD2A5E007F0242 /* MyCommentsToStudy.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
